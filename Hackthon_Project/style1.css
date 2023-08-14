@@ -1,0 +1,104 @@
+.bvc{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: blue;
+  font-size: 20PX;
+  background-color: rgb(245, 249, 248);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+       0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.heading {
+  padding-top: 0px;
+  margin-top: 50px;
+  padding-bottom: 35PX;
+  text-align: center;
+  font-size: 30px;
+  color: rgb(29, 30, 37);
+  margin-bottom: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.thumbnail{
+  padding-top: 100PX;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: auto;
+  background-color:white;
+    
+  border-radius: 4px;
+  margin-bottom: 0px;
+  
+  width:40%;
+  height:auto; 
+  
+
+}
+.data1{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.center1{
+  width: 60%;
+  height: 60%;
+  opacity: 0.8;
+  cursor: pointer;
+}
+.center2{
+  width: 60%;
+  height: 45%;
+  padding-bottom: 30PX;
+}
+center2 :hover{
+  opacity: 1;
+}
+.project1{
+  padding-top: 40px;
+}
+
+
+table {
+  width: 50%;
+  margin: auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+  padding-bottom: 40px;
+}
+th, td {
+  border: 1px solid black;
+  padding: 4px;
+  text-align: left;
+}
+th {
+  background-color: #f2f2f2;
+}
+footer {
+  padding-top: 90PX;
+  background-color: #b3aaaa27;
+  color: #060606;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+footer p {
+  margin: 0;
+}
+.saibabu{
+  color: black;
+
+}
+.sai{
+  color: red;
+}
+.foot{
+  padding-top: 40px;
+}
